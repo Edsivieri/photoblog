@@ -1,0 +1,19 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+font-size: 17px;
+margin-left: 1.66%;
+font-weight: 100;
+border-bottom: 1px solid red;
+width: 30%;
+padding-bottom: 20px}
+.hover1:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+*{box-sizing: border-box;}
